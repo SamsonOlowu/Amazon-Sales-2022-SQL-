@@ -4,6 +4,7 @@ The dataset contains ;index,	Order ID,	Date,	Status,	Fulfilment,	Sales Channel, 
 
 
 Files
+
 Dataset
   - amazon_sales.xlsx
 SQL
